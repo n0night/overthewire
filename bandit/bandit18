@@ -1,0 +1,4 @@
+password is in new file and we have to compare the both file so we use 
+cmd :: diff password.new password.old
+
+password :: kfBf3eYk5BPBRzwjqutbbfE887SVc5Yd

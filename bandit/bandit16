@@ -1,0 +1,6 @@
+the cmd that we are going to use is ::
+cmd :: openssl s_client -connect localhost:30001 -ign_eof
+
+After running this cmd, enter the level 15 password
+
+password :: cluFn7wTiGryunymYOu4RcffSxQluehd

@@ -1,0 +1,5 @@
+First we go into the directory i.e /etc/cron.d and list the file
+then we cat the bandit22 and it will give another file 
+and then we again cat it and we get the password 
+
+password :: Yk7owGAcWjwMVRwrTesJEwB7WVOiILLI

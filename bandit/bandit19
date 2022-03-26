@@ -1,0 +1,5 @@
+As we thrown out the ssh we use another way to get the password
+cmd :: ssh bandit18@bandit.labs.overthewire.org -p 2220 ls // to list the file
+cmd :: ssh bandit18@bandit.labs.overthewire.org -p 2220 cat readme // to see content
+
+password :: IueksS7Ubh8G3DCwVzrTd8rAVOwq3M5x

@@ -1,0 +1,4 @@
+first we the file sort file_name, to sort the file
+and uniq to find the unique word
+cmd use :: sort data.txt | uniq -u
+password :: UsvVyFSfZZWbi6wgC7dAFyFuR6jQQUhR

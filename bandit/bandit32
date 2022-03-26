@@ -1,0 +1,7 @@
+first cat the readme and then we check the content
+make a file name as key.txt and write the content
+add it forcefully, cmd :: git add key.txt -f
+commit it and push with the bandit31 pass and in b/w we get the password
+
+
+password :: 56a9bf19c63d650ce78e6ec0354ee45e

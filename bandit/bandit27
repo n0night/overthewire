@@ -1,0 +1,8 @@
+first we have to set the shell and try to login into minimize way
+type vi and then press esc, then type : set shell=/bin/bash and press enter
+after this type : shell and you get the shell
+
+after login we get bandit-do, we use it to get the password
+cmd:: ./bandit27-do cat /etc/bandit_pass/bandit27
+
+password :: 3ba3118a22e93127a4ed485be72ef5ea

@@ -1,0 +1,3 @@
+connect to localhost on port 30000
+   use cmd on bandit14 :: nc localhost 30000 and enter bandit14 password
+password :: BfMYroe26WYalil77FoDi9qh59eK5xNr

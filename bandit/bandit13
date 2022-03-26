@@ -1,0 +1,11 @@
+Here file in compressed so we have to decompress first.
+1. It is hexadecimal compressed so to reverse it we use
+   cmd use :: xxd -r file_name
+2. If file is gzip compressed, then to decompress it
+   cmd use :: gzip -d file_name
+3. If file is bzip2 compressed, then to decompress it
+   cmd use :: bzip2 -d file_name
+4. To decompress tar file
+   cmd use :: tar -xvf file_name
+
+password :: 8ZjyCRiBWFYkneahHwxCv3wb2a1ORpYL

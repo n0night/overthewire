@@ -1,0 +1,12 @@
+as script is already running on the /var/spool/bandit24/, so we write a script
+   script:: 
+	#!/bin/bash
+	cat /etc/bandit_pass/bandit24 > /tmp/flag/pass
+   change the mod of this file to read only i.e 666
+
+Make a pass file using touch in directory, /tmp/flag/
+   change the mod to all i.e 777
+
+Copy the script to the /var/spool/bandit24/ and wait for a min to get the pass
+
+password :: UoMYTrfrBFHyQXmg6gzctqAwOmw1IohZ

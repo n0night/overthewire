@@ -1,0 +1,7 @@
+the cmd that we run to get the file_name which contain pass in tmp directory is
+   cmd :: echo I am user $user_name | md5sum | cut -d ' ' -f 1
+	it will give the file_name
+to get the password cat this file in tmp directory
+   cmd :: cat /tmp/file_name
+
+password :: jc1udXuA1tiHqjIsL8yaapX5XIAI6i0n

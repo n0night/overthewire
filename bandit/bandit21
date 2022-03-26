@@ -1,0 +1,10 @@
+open two terminal 
+in first run the netcat on port 9001
+cmd :: nc -nlvp 9001
+
+in second run the file on same port number
+cmd :: ./suconnect 9001
+
+And paste password on the nc of level 20 it will give level 21 password
+
+password :: gE269g2h3mw3pwgrj0Ha9Uoqen1c9DGr

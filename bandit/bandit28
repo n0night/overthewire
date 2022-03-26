@@ -1,0 +1,5 @@
+first we clone the repo in the tmp directory
+cmd :: git clone rep_name
+visit the repo and get the flag
+
+password :: 0ef186ac70e04ea33b4c1853d2526fa2
